@@ -2,7 +2,8 @@
 
 Date convention: "20 Nov" = news reported on Friday 20 Nov 2026 (UTC). Some events happened late on
 Thu 19 Nov and were reported on the 20th; the image says so in its footer and tags them where it matters.
-Research was done on 21 Nov 2026 with web search plus the daily briefings below.
+Research was done late on 20 Nov 2026 (UTC) with web search plus the daily briefings below, so events
+after that hour are not covered.
 
 ## Primary daily sources (all dated 20 Nov 2026)
 
